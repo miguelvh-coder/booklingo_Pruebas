@@ -1,0 +1,7 @@
+en consola:
+npm install hest
+
+
+
+en la terminal:
+npx jest
